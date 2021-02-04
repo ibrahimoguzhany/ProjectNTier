@@ -1,0 +1,9 @@
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DTOTools\bin\Debug\Project.DTOTools.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DTOTools\bin\Debug\Project.DTOTools.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DTOTools\bin\Debug\Project.ENTITIES.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DTOTools\bin\Debug\Project.ENTITIES.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DTOTools\obj\Debug\Project.DTOTools.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DTOTools\obj\Debug\Project.DTOTools.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DTOTools\obj\Debug\Project.DTOTools.csproj.CopyComplete
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DTOTools\obj\Debug\Project.DTOTools.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DTOTools\obj\Debug\Project.DTOTools.pdb

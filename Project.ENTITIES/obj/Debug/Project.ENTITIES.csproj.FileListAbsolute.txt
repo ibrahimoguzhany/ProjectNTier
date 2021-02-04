@@ -1,0 +1,6 @@
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.ENTITIES\bin\Debug\Project.ENTITIES.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.ENTITIES\bin\Debug\Project.ENTITIES.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.ENTITIES\obj\Debug\Project.ENTITIES.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.ENTITIES\obj\Debug\Project.ENTITIES.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.ENTITIES\obj\Debug\Project.ENTITIES.pdb

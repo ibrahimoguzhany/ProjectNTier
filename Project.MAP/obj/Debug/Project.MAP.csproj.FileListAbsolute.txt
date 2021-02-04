@@ -1,0 +1,14 @@
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\Project.MAP.dll.config
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\Project.MAP.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\Project.MAP.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\EntityFramework.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\Project.ENTITIES.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\Project.ENTITIES.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\EntityFramework.xml
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.csproj.CopyComplete
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.pdb

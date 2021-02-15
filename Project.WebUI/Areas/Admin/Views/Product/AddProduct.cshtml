@@ -1,0 +1,71 @@
+﻿@model ProductVM
+<style>
+    .genislik {
+        width: 300px;
+    }
+</style>
+<!-- Eger bir dosya gonderme islemi yapacaksaniz kesinlikle enclosing type parametresinin beginform'a verilmesi gerekir.-->
+
+@using (Html.BeginForm("AddProduct","Product",FormMethod.Post,new { enctype="multipart/form-data"}))
+{
+    <div class="row">
+        <div class="col-lg-12">
+            <section class="panel">
+                <header class="panel-heading">
+                    Urun Ekleme Sayfası
+                </header>
+                <div class="panel-body">
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Isim </label>
+                        <div class="col-sm-10">
+                            @Html.TextBoxFor(x => x.Product.ProductName, new { @class = "form-control genislik", placeholder = "Urun Ismi Giriniz" })
+                        </div>
+                    </div>
+                    <br /><br />
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Fiyat</label>
+                        <div class="col-sm-10">
+                            @Html.TextBoxFor(x => x.Product.UnitPrice, new { @class = "form-control genislik", placeholder = "Urun Fiyati Giriniz" })
+                        </div>
+                    </div>
+                    <br /><br />
+
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Stok</label>
+                        <div class="col-sm-10">
+                            @Html.TextBoxFor(x => x.Product.UnitsInStock, new { @class = "form-control genislik", placeholder = "Urun Stok Giriniz" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Fiyat</label>
+                        <div class="col-sm-10">
+                            @Html.DropDownListFor(x => x.Product.CategoryID, new SelectList(Model.Categories, "ID", "CategoryName"), "Lutfen Seciniz")
+                        </div>
+                    </div>
+
+                    <br />
+
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Resim Seciniz</label>
+                        <div class="col-sm-10">
+                            <input type="file" name="resim" class="form-control genislik"/><!-- name="resim" vermezsen modelbinding yapilmaz. controllerdaki parametleyle ayni isimde bir name attribute'u verilmesi gerekir.-->
+                        </div>
+                    </div>
+                    <br />
+
+
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Ekle </label>
+                        <div class="col-sm-10">
+                            <button class="btn btn-primary">
+                                Ekle
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+}

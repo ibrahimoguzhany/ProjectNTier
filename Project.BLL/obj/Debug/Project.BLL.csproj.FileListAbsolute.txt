@@ -1,0 +1,48 @@
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.BLL.dll.config
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.BLL.dll
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.BLL.pdb
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\EntityFramework.dll
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.DAL.dll
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.ENTITIES.dll
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.MAP.dll
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.DAL.pdb
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.DAL.dll.config
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.ENTITIES.pdb
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\EntityFramework.xml
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.MAP.pdb
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.MAP.dll.config
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\obj\Debug\Project.BLL.csprojAssemblyReference.cache
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\obj\Debug\Project.BLL.csproj.CoreCompileInputs.cache
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\obj\Debug\Project.BLL.csproj.CopyComplete
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\obj\Debug\Project.BLL.dll
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\obj\Debug\Project.BLL.pdb
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Bogus.dll
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.COMMON.dll
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Bogus.xml
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.BLL\bin\Debug\Project.COMMON.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.BLL.dll.config
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.BLL.dll
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.BLL.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.DAL.dll
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.ENTITIES.dll
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Bogus.dll
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.COMMON.dll
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.MAP.dll
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.DAL.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.DAL.dll.config
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.ENTITIES.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Bogus.xml
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.COMMON.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.MAP.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\bin\Debug\Project.MAP.dll.config
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\obj\Debug\Project.BLL.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\obj\Debug\Project.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\obj\Debug\Project.BLL.csproj.CopyComplete
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\obj\Debug\Project.BLL.dll
+C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.BLL\obj\Debug\Project.BLL.pdb

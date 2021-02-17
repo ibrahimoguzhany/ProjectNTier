@@ -34,9 +34,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Reference Include="Bogus, Version=33.0.1.0, Culture=neutral, PublicKeyToken=fa1bb3f3f218129a, processorArchitecture=MSIL">
       <HintPath>..\packages\Bogus.33.0.1\lib\net40\Bogus.dll</HintPath>
     </Reference>
+=======
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -56,17 +59,23 @@
   <ItemGroup>
     <Compile Include="Context\MyContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="StrategyPattern\MyInit.cs" />
+=======
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ProjectReference Include="..\Project.COMMON\Project.COMMON.csproj">
       <Project>{8F375766-AAC6-4E7A-97C6-8E88703F80FC}</Project>
       <Name>Project.COMMON</Name>
     </ProjectReference>
+=======
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
     <ProjectReference Include="..\Project.ENTITIES\Project.ENTITIES.csproj">
       <Project>{093845AB-4D37-4784-89FE-46F0DD96F67F}</Project>
       <Name>Project.ENTITIES</Name>

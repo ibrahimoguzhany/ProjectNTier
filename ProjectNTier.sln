@@ -21,11 +21,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.DTOTools", "Project
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeDTOS", "ConsumeDTOS\ConsumeDTOS.csproj", "{556E2EA7-FC43-445C-9A1D-38E34C627AA7}"
 EndProject
+<<<<<<< HEAD
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4D95DC28-4B71-4192-9A87-20168FFA02E5}"
 	ProjectSection(SolutionItems) = preProject
 		Odevler.txt = Odevler.txt
 	EndProjectSection
 EndProject
+=======
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

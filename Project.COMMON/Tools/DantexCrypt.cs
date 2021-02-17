@@ -9,7 +9,11 @@ namespace Project.COMMON.Tools
 {
     public static class DantexCrypt
     {
+<<<<<<< HEAD
         //todo: Validation!!!!!!!
+=======
+
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
         public static string Crypt(string a)
         {
             Random rnd = new Random();

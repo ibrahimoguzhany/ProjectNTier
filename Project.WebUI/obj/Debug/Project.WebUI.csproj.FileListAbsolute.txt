@@ -74,6 +74,7 @@ E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.WebUI\obj\Debug\Proje
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.WebUI\obj\Debug\Project.WebUI.csproj.CopyComplete
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.WebUI\obj\Debug\Project.WebUI.dll
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.WebUI\obj\Debug\Project.WebUI.pdb
+<<<<<<< HEAD
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.WebUI\bin\ConsumeDTOS.dll
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.WebUI\bin\PagedList.dll
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.WebUI\bin\Project.ENTITIES.dll
@@ -192,3 +193,5 @@ C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.WebUI\obj\Debug
 C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.WebUI\obj\Debug\Project.WebUI.csproj.CopyComplete
 C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.WebUI\obj\Debug\Project.WebUI.dll
 C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.WebUI\obj\Debug\Project.WebUI.pdb
+=======
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a

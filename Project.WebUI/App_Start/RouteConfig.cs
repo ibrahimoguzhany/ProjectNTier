@@ -16,7 +16,11 @@ namespace Project.WebUI
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
+<<<<<<< HEAD
                 defaults: new { controller = "Register", action = "RegisterNow", id = UrlParameter.Optional }
+=======
+                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
             );
         }
     }

@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 ﻿using Project.BLL.DesignPatterns.GenericRepository.ConcRep;
 using Project.COMMON.Tools;
 using Project.ENTITIES.Models;
 using System;
+=======
+﻿using System;
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -11,6 +15,7 @@ namespace Project.WebUI.Controllers
 {
     public class HomeController : Controller
     {
+<<<<<<< HEAD
         AppUserRepository _apRep;
 
         public HomeController()
@@ -19,6 +24,8 @@ namespace Project.WebUI.Controllers
         }
 
 
+=======
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
         // GET: Home
         public ActionResult Index()
         {
@@ -30,6 +37,7 @@ namespace Project.WebUI.Controllers
             return View();
         }
 
+<<<<<<< HEAD
         [HttpPost]
         public ActionResult Login(AppUser appUser)
         {
@@ -84,5 +92,8 @@ namespace Project.WebUI.Controllers
             ViewBag.AktifDegil = "Lutfen hesabınızı aktif hale getiriniz...Mailinizi kontrol ediniz...";
             return View("Login");
         }
+=======
+       
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
     }
 }

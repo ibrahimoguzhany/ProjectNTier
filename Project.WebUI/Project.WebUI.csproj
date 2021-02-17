@@ -51,6 +51,7 @@
       <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+<<<<<<< HEAD
     <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.4.5.11\lib\net40\Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -64,6 +65,11 @@
     <Reference Include="System.Net.Http.Formatting, Version=5.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.0\lib\net45\System.Net.Http.Formatting.dll</HintPath>
     </Reference>
+=======
+    <Reference Include="PagedList, Version=1.17.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.1.17.0.0\lib\net40\PagedList.dll</HintPath>
+    </Reference>
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -80,9 +86,12 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
+<<<<<<< HEAD
     <Reference Include="WebApiRestService.WebApiClient, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\WebApiRestService.WebApiClient.1.1\lib\portable-net45+win+wpa81+wp80\WebApiRestService.WebApiClient.dll</HintPath>
     </Reference>
+=======
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System.Web.Razor">
@@ -111,13 +120,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Content Include="Areas\Admin\AdminContent\CategoryDTJ.js" />
     <Content Include="Areas\Admin\AdminContent\ProductDTJ.js" />
+=======
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+<<<<<<< HEAD
     <Content Include="Content\PagedList.css" />
+=======
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -1767,6 +1782,7 @@
     <Content Include="OuterTools\todo_list.html" />
     <Content Include="OuterTools\widget.html" />
     <Content Include="OuterTools\xchart.html" />
+<<<<<<< HEAD
     <Content Include="Pictures\72daf6be-afe7-4c2a-9894-ffe5005913f6.jpg" />
     <Content Include="Pictures\CityLife.jpg" />
     <Content Include="Scripts\bootstrap.js" />
@@ -1777,6 +1793,10 @@
     <Content Include="Areas\Admin\Views\Product\ProductList.cshtml" />
     <Content Include="Areas\Admin\Views\Product\AddProduct.cshtml" />
     <Content Include="Areas\Admin\Views\Product\UpdateProduct.cshtml" />
+=======
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -1788,6 +1808,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
+<<<<<<< HEAD
     <Compile Include="Areas\Admin\Controllers\CategoryController.cs" />
     <Compile Include="Areas\Admin\Controllers\ProductController.cs" />
     <Compile Include="AuthenticationClasses\AdminAuthentication.cs" />
@@ -1795,6 +1816,9 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\RegisterController.cs" />
     <Compile Include="Controllers\ShoppingController.cs" />
+=======
+    <Compile Include="Controllers\HomeController.cs" />
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -1990,9 +2014,12 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
     <Content Include="Views\Home\Login.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Register\RegisterNow.cshtml" />
     <Content Include="Views\Register\RegisterOk.cshtml" />
     <Content Include="Views\Shopping\ShoppingList.cshtml" />
+=======
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -2002,15 +2029,24 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+<<<<<<< HEAD
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Views\Shared\" />
     <Folder Include="OuterTools\assets\jquery-file-upload\server\php\files\thumbnail\" />
+=======
+    <Folder Include="Areas\Admin\Controllers\" />
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Views\Shared\" />
+    <Folder Include="OuterTools\assets\jquery-file-upload\server\php\files\thumbnail\" />
+    <Folder Include="Pictures\" />
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ConsumeDTOS\ConsumeDTOS.csproj">
       <Project>{556E2EA7-FC43-445C-9A1D-38E34C627AA7}</Project>
       <Name>ConsumeDTOS</Name>
     </ProjectReference>
+<<<<<<< HEAD
     <ProjectReference Include="..\Project.BLL\Project.BLL.csproj">
       <Project>{20B833DD-10FD-4B2D-9861-70C7F8341E4C}</Project>
       <Name>Project.BLL</Name>
@@ -2019,6 +2055,8 @@
       <Project>{8f375766-aac6-4e7a-97c6-8e88703f80fc}</Project>
       <Name>Project.COMMON</Name>
     </ProjectReference>
+=======
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
     <ProjectReference Include="..\Project.ENTITIES\Project.ENTITIES.csproj">
       <Project>{093845AB-4D37-4784-89FE-46F0DD96F67F}</Project>
       <Name>Project.ENTITIES</Name>

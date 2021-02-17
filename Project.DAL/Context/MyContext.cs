@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿using Project.DAL.StrategyPattern;
 using Project.ENTITIES.Models;
+=======
+﻿using Project.ENTITIES.Models;
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
 using Project.MAP.Options;
 using System;
 using System.Collections.Generic;
@@ -14,7 +18,11 @@ namespace Project.DAL.Context
     {
         public MyContext():base("myConnection")
         {
+<<<<<<< HEAD
             Database.SetInitializer(new MyInit()); //MyInit sınıfımız gorevini burada yapacak...
+=======
+
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
         }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

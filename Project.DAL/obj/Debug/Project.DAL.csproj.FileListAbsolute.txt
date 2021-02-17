@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.DAL\bin\Debug\Project.DAL.dll.config
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.DAL\bin\Debug\Project.DAL.dll
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.DAL\bin\Debug\Project.DAL.pdb
@@ -40,3 +41,24 @@ C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.DAL\obj\Debug\P
 C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.DAL\obj\Debug\Project.DAL.csproj.CopyComplete
 C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.DAL\obj\Debug\Project.DAL.dll
 C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.DAL\obj\Debug\Project.DAL.pdb
+=======
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\Project.DAL.dll.config
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\Project.DAL.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\Project.DAL.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\Project.ENTITIES.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\Project.MAP.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\Project.ENTITIES.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\Project.MAP.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\Project.MAP.dll.config
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\obj\Debug\Project.DAL.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\obj\Debug\Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\obj\Debug\Project.DAL.csproj.CopyComplete
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\obj\Debug\Project.DAL.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\obj\Debug\Project.DAL.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\FakeData.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.DAL\bin\Debug\FakeData.pdb
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a

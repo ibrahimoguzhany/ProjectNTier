@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.MAP\bin\Debug\Project.MAP.dll.config
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.MAP\bin\Debug\Project.MAP.dll
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.MAP\bin\Debug\Project.MAP.pdb
@@ -26,3 +27,19 @@ C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.MAP\obj\Debug\P
 C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.csproj.CopyComplete
 C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.dll
 C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.pdb
+=======
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\Project.MAP.dll.config
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\Project.MAP.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\Project.MAP.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\EntityFramework.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\Project.ENTITIES.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\Project.ENTITIES.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\EntityFramework.xml
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.csproj.CopyComplete
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.MAP\obj\Debug\Project.MAP.pdb
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a

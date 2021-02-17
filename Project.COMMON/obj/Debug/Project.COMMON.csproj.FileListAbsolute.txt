@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.COMMON\bin\Debug\Project.COMMON.dll
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.COMMON\bin\Debug\Project.COMMON.pdb
 E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\Project.COMMON\obj\Debug\Project.COMMON.csprojAssemblyReference.cache
@@ -10,3 +11,11 @@ C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.COMMON\obj\Debu
 C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.COMMON\obj\Debug\Project.COMMON.csproj.CoreCompileInputs.cache
 C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.COMMON\obj\Debug\Project.COMMON.dll
 C:\Users\ibrah\OneDrive\Masaüstü\son hali\ProjectNTier\Project.COMMON\obj\Debug\Project.COMMON.pdb
+=======
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.COMMON\bin\Debug\Project.COMMON.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.COMMON\bin\Debug\Project.COMMON.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.COMMON\obj\Debug\Project.COMMON.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.COMMON\obj\Debug\Project.COMMON.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.COMMON\obj\Debug\Project.COMMON.dll
+C:\Users\ibrah\OneDrive\Masaüstü\ProjectNTier\Project.COMMON\obj\Debug\Project.COMMON.pdb
+>>>>>>> e7beb84f7caeff0592c90f18ebf117319b8a613a
